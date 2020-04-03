@@ -14,12 +14,10 @@ Plant Shop App UI is a design implementaion of [Plant Shop](https://dribbble.com
 
 ### Android Screenshots
 
-![alt text](https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/Screenshot_1584542407.png)
-
------------------------------------
-
 ![alt text](https://github.com/developerRsam/Plant-app-UI/blob/master/Shots/Screenshot_1585314420.png)
+
 -----------------------------------
+
 ![alt text](https://github.com/developerRsam/Plant-app-UI/blob/master/Shots/Screenshot_1585314383.png)
 -----------------------------------
 ![alt text](https://github.com/developerRsam/Plant-app-UI/blob/master/Shots/vS1-screenshot.png)
