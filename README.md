@@ -19,7 +19,7 @@ Plant Shop App UI is a design implementaion of [Plant App](https://dribbble.com/
 -----------------------------------
 ![alt text](https://github.com/developerRsam/Plant-app-UI/blob/master/Shots/Screenshot_1585314383.png)
 
-### Android Screenshots
+### iOS Screenshots
 
 ![alt text](https://github.com/developerRsam/Plant-app-UI/blob/master/Shots/vS1-screenshot.png)
 
